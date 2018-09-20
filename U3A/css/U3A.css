@@ -8,13 +8,10 @@ and open the template in the editor.
     Author     : manda
 */
 
-html, body {
-    margin:0;
-    color:#333;
-    background: #eee;
-    font: sans-serif;
-}
-
-body {
-    padding:20px;
+#menu-footer-navigation li a{
+    list-style: none;
+    text-decoration: none;
+    float:left;
+    padding :10px;
+    
 }

@@ -11,3 +11,12 @@ and open the template in the editor.
     Theme Description: this theme is built as an assignment task
 */
 
+.footer-menu li{
+    list-style: none;
+    padding: 10px;
+    float:left;
+}
+
+.footer-menu li a{
+    text-decoration: none;
+}
